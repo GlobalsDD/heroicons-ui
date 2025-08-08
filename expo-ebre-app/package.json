@@ -1,0 +1,11 @@
+{
+  "name": "expo-ebre-app",
+  "version": "1.0.0",
+  "description": "Fun and flashy app for Expo Ebre de Tortosa 2026 with a mini game",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo 'No tests specified'"
+  },
+  "author": "",
+  "license": "MIT"
+}
